@@ -18,15 +18,17 @@
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
   
 <div align=center>
-  <img src="https://img.shields.io/badge/SOLIDWORKS-EB2629?style=for-the-badge&logo=dassaultsystemes">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a">
-  <img src="https://img.shields.io/badge/lvgl-343839?style=for-the-badge&logo=lvgl&logoColor=white">
-  
-<div align=center>
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+<div align=center>
+  <img src="https://img.shields.io/badge/SOLIDWORKS-EB2629?style=for-the-badge&logo=dassaultsystemes">
+  <img src="https://img.shields.io/badge/lvgl-343839?style=for-the-badge&logo=lvgl&logoColor=white">
+<!--  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a">
+-->
 
 <!--
 <div align=center>
